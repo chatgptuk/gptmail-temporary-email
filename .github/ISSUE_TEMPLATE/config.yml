@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GPTMail help center
+    url: https://mail.chatgpt.org.uk/help
+    about: Read product guidance and troubleshooting before opening a documentation issue.
+  - name: Developer API documentation
+    url: https://mail.chatgpt.org.uk/api
+    about: Check current endpoints, authentication, quotas, and examples.
+  - name: Private support and security reports
+    url: mailto:support@chatgpt.org.uk
+    about: Use email when a report could contain an inbox address, message data, credentials, or security details.

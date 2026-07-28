@@ -13,6 +13,7 @@
 <p align="center">
   <a href="https://mail.chatgpt.org.uk/"><strong>立即使用 GPTMail</strong></a> ·
   <a href="https://chromewebstore.google.com/detail/eplebonhkjiahfnoaiifngokamaipeoo">Chrome 扩展</a> ·
+  <a href="docs/README.md">使用指南</a> ·
   <a href="https://mail.chatgpt.org.uk/help">帮助中心</a> ·
   <a href="https://mail.chatgpt.org.uk/api">开发者 API</a>
 </p>
@@ -123,7 +124,10 @@ API Key 应通过请求头传递，不要放在 URL、日志或公开代码中�
 
 ## 了解更多
 
+- [文档中心](docs/README.md)
 - [临时邮箱的工作原理](docs/how-temporary-email-works.md)
+- [收不到验证邮件时如何排查](docs/verification-email-not-received.md)
+- [临时邮箱与邮箱别名的区别](docs/temporary-email-vs-email-alias.md)
 - [自定义域名与私密收件箱](docs/custom-domains-and-private-inboxes.md)
 - [测试与 API 工作流](docs/testing-and-api-workflows.md)
 - [GPTMail 帮助中心](https://mail.chatgpt.org.uk/help)

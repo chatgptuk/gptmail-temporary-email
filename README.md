@@ -13,6 +13,7 @@
 <p align="center">
   <a href="https://mail.chatgpt.org.uk/"><strong>Open GPTMail</strong></a> ·
   <a href="https://chromewebstore.google.com/detail/eplebonhkjiahfnoaiifngokamaipeoo">Chrome extension</a> ·
+  <a href="docs/README.md">Guides</a> ·
   <a href="https://mail.chatgpt.org.uk/help">Help</a> ·
   <a href="https://mail.chatgpt.org.uk/api">Developer API</a>
 </p>
@@ -129,10 +130,15 @@ Use GPTMail only where temporary addresses are permitted. Do not use it for frau
 
 ## Learn more
 
+- **[Documentation hub](docs/README.md)**
 - **[How temporary email works](docs/how-temporary-email-works.md)**
+- **[Verification email not received?](docs/verification-email-not-received.md)**
+- **[Temporary email vs email alias](docs/temporary-email-vs-email-alias.md)**
 - **[Custom domains and private inboxes](docs/custom-domains-and-private-inboxes.md)**
 - **[Testing and API workflows](docs/testing-and-api-workflows.md)**
 - **[GPTMail help center](https://mail.chatgpt.org.uk/help)**
+- **[Support](SUPPORT.md)** and **[security policy](SECURITY.md)**
+- **[Contributing to the documentation](CONTRIBUTING.md)**
 - **[Terms and privacy](https://mail.chatgpt.org.uk/terms)**
 - **[Product updates and guides](https://mail.chatgpt.org.uk/blog)**
 

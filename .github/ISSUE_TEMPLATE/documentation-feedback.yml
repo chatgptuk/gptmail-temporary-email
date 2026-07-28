@@ -1,0 +1,39 @@
+name: Documentation correction
+description: Report inaccurate, unclear, or outdated public documentation.
+title: "[Docs] "
+labels:
+  - documentation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form only for public documentation. For account, inbox, abuse, or security matters, email support@chatgpt.org.uk.
+  - type: input
+    id: page
+    attributes:
+      label: Page or section
+      description: Link to the affected GitHub document or public GPTMail page.
+      placeholder: https://github.com/chatgptuk/gptmail-temporary-email/...
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is inaccurate or unclear?
+      description: Explain the issue without including an active inbox, message content, tokens, passwords, or personal information.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested correction
+      description: Provide replacement wording or a source when possible.
+    validations:
+      required: false
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: I removed email addresses, message content, verification codes, passwords, API keys, tokens, and personal information.
+          required: true

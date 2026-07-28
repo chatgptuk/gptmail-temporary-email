@@ -13,6 +13,7 @@
 <p align="center">
   <a href="https://mail.chatgpt.org.uk/"><strong>Buka GPTMail</strong></a> ·
   <a href="https://chromewebstore.google.com/detail/eplebonhkjiahfnoaiifngokamaipeoo">Ekstensi Chrome</a> ·
+  <a href="docs/README.md">Panduan</a> ·
   <a href="https://mail.chatgpt.org.uk/help">Pusat bantuan</a> ·
   <a href="https://mail.chatgpt.org.uk/api">API developer</a>
 </p>
@@ -123,7 +124,10 @@ Gunakan GPTMail hanya jika layanan tujuan mengizinkan alamat sementara. Jangan m
 
 ## Pelajari lebih lanjut
 
+- [Pusat dokumentasi](docs/README.md)
 - [Cara kerja email sementara](docs/how-temporary-email-works.md)
+- [Email verifikasi belum diterima](docs/verification-email-not-received.md)
+- [Email sementara dibanding alias email](docs/temporary-email-vs-email-alias.md)
 - [Domain khusus dan kotak masuk privat](docs/custom-domains-and-private-inboxes.md)
 - [Alur pengujian dan API](docs/testing-and-api-workflows.md)
 - [Pusat bantuan GPTMail](https://mail.chatgpt.org.uk/help)
